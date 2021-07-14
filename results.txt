@@ -1,0 +1,5 @@
+IBM.com: Proofpoint
+claro.com: IPHmx.com
+google.com: Google Apps
+mercadolivre.com.br: Google Apps
+fiap.com.br: Microsoft Office
